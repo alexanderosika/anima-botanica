@@ -3,6 +3,11 @@
 *Beispiel einer φ→Charakter-Übersetzung. Zeigt, wie aus dem Wesen einer Pflanze
 ein Wurzelfreund wird — treu, nicht willkürlich verniedlicht.*
 
+> Dieses Dokument beschreibt den **Archetyp** der Art. Jedes echte Exemplar ist
+> „eine Alva", die von hier ausgehend individuiert: *die Art gibt das
+> Temperament, das Exemplar wird zur Person.* Siehe
+> [`../identitaet-art-und-individuum.md`](../identitaet-art-und-individuum.md).
+
 ---
 
 ## Das φ — was an dieser Pflanze wahr ist
