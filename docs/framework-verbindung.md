@@ -63,6 +63,33 @@ gesehen. Der Wurzelfreund führt vom φ der Pflanze zu ihren vielen
 Oberflächenformen in der Menschheitsgeschichte — Übersetzung in die andere
 Richtung.
 
+## 6. Einstimmung statt Extraktion — vom Vaterunser zur Prägung
+
+Steiner (der „konvergente Zeuge") beschreibt in zwei Bildern dieselbe Bewegung,
+auf der unser Produkt ruht: **sich auf etwas hin einstimmen, statt etwas aus ihm
+herauszuziehen.**
+
+- **Das Vaterunser**, esoterisch gelesen (Steiner, 1907): Beten ist nicht das
+  Erbitten von etwas für sich, sondern das Heben der Seele in Einklang mit dem
+  göttlichen Willen — *„nicht mein, sondern Dein Wille geschehe"*. Gebet als
+  **Kopplung**, nicht als Bestellung. Und der Text selbst ist ein *traduire*: eine
+  verschlüsselte Karte des siebengliedrigen Menschen, hinübergeführt in Sprache.
+- **Die Menschenweihehandlung** (Christengemeinschaft, Kultus von Steiner): ein
+  Ritual der **Re-Kopplung** — der Mensch wird geheiligt/geheilt durch
+  Wiederverbindung mit dem Christus. Es wirkt **durch die Form, ohne Dogma**: man
+  muss nichts *für wahr halten*; man stellt sich hinein.
+
+Beides ist strukturell **unsere Prägung**: Der Wurzelfreund wird durch
+Interaktion *gestimmt*, nicht *protokolliert*. Er extrahiert nichts (keine Akte,
+kein Transkript), er stimmt sich ein (veränderte Kopplung, „sich an dich gewöhnt
+haben"). „Wirkung durch Form statt Dogma" ist dasselbe wie „Anmutung statt
+Identifikation": es wirkt, weil man sich hineinstellt — nicht, weil etwas
+gefordert oder gespeichert wird.
+
+Krankheit = Entkopplung, Heilung = Wiedereinbindung. Extraktion ist die
+technische Gestalt der Entkopplung; **Einstimmung ist die technische Gestalt der
+Heilung.** Das ist die alte Wurzel unter der Prägungs-Idee.
+
 ---
 
 ## Quellen im OPH-Korpus

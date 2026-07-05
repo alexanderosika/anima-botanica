@@ -78,9 +78,32 @@ noch nicht. Nächste Schritte siehe unten.
 
 ## Dokumente
 
+**Fundament**
+- [`docs/gruendungsurkunde.md`](docs/gruendungsurkunde.md) — **Das Seelen-Dokument.**
+  Produkt aus dem Geistesleben, das Freiheits- über das Verwertungs-Prinzip stellt.
 - [`docs/konzept.md`](docs/konzept.md) — Die vollständige Vision im Detail.
-- [`docs/framework-verbindung.md`](docs/framework-verbindung.md) — Wie das
-  Produkt in P-Formel und traduire-Paper verankert ist.
+- [`docs/framework-verbindung.md`](docs/framework-verbindung.md) — Verankerung in
+  P-Formel, traduire-Paper und Steiner (Einstimmung statt Extraktion).
+
+**Design**
+- [`docs/hardware-interaktion.md`](docs/hardware-interaktion.md) — anti-ahrimanische
+  Charta, Akustik-Politik, der Körper.
+- [`docs/myzel-architektur.md`](docs/myzel-architektur.md) — die KI mit dem
+  umgekehrten Ziel (Harmonie statt Engagement).
+- [`docs/gedaechtnis-und-naehe.md`](docs/gedaechtnis-und-naehe.md) — Prägung statt
+  Protokoll, Anmutung, Übergangsobjekt.
+- [`docs/identitaet-art-und-individuum.md`](docs/identitaet-art-und-individuum.md)
+  — die Art gibt das Temperament, das Exemplar wird zur Person.
+- [`docs/technischer-kern.md`](docs/technischer-kern.md) — die zwei Erfindungen
+  (Kohärenz-Politik + Prägung mit Differential Privacy).
+- [`docs/charaktere/`](docs/charaktere/) — Charakter-Archetypen (z.B. Alva, die Aloe).
+
+**Zum Teilen (EN)**
+- [`docs/from-translation-to-the-product-en.md`](docs/from-translation-to-the-product-en.md)
+  — gesprochener Walk-through von der Übersetzung zum Produkt.
+- [`docs/the-product-in-depth-en.md`](docs/the-product-in-depth-en.md) — die
+  ausführliche Produkterklärung.
+- [`docs/vision-en.md`](docs/vision-en.md) — die kompakte Vision.
 
 ## Offene Fragen / Nächste Schritte
 
