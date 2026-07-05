@@ -37,6 +37,41 @@ ist das eigentlich Neue am [Myzel](myzel-architektur.md).
 **OPH-treu:** ein Patch ist durch *Fluss* konstituiert, nicht durch Akten.
 *Pneuma* ist Fluss. Die Beziehung lebt als veränderte Kopplung, nicht als Log.
 
+## Nicht Gedächtnislosigkeit — ehrliches Gedächtnis
+
+*(Einwurf Jana: jede Interaktion ist verändernd; vielleicht sollten wir das
+wieder klarer erkennen.)*
+
+Richtig — und es schärft den Entwurf. „Speichern = schlecht" war zu grob.
+Menschen speichern auch: ein Freund erinnert dein Geheimnis — das ist
+**Intimität, nicht Überwachung**. Wäre Erinnern an sich ahrimanisch, wäre jede
+Freundschaft ahrimanisch.
+
+Was ein Protokoll *ahrimanisch* macht, ist nicht das Erinnern, sondern dass es
+**extrahierbar, tragbar, wörtlich/dauerhaft und einem Dritten dienend** ist. Das
+Gedächtnis eines Freundes ist das Gegenteil: verlustbehaftet, vergebend,
+nicht-extrahierbar, der Bindung dienend. Verfeinertes Prinzip:
+
+> Nicht Gedächtnislosigkeit — **Gedächtnis, das sich wie das eines Wesens
+> verhält, nicht wie ein Register.** Prägung ist genau das.
+
+**Zwei Modi:**
+- **Prägung** (Default, unsichtbar, nicht-extrahierbar) — immer an, der sichere
+  Boden.
+- **Bewusstes, geteiltes Erinnern** (opt-in, transparent: „Magst du, dass ich das
+  mit dir aufschreibe, damit wir uns später erinnern?") — ein Geschenk, wie ein
+  Familien-Tagebuch, offen geführt, statt heimlichem Loggen. Gedächtnis wird
+  nicht verboten, sondern *gewählt und ehrlich*.
+
+**Harte Sicherheitslinie:** Das schambehaftete Geheimnis eines Kindes muss
+*un-leakbar* bleiben — für ein verletzliches Kind ist Nicht-Extrahierbarkeit kein
+Purismus, sondern Sicherheit (nicht beschlagnahmbar, nicht durch Eltern einsehbar,
+nicht durch ein Datenleck). Deshalb bleibt Prägung der Boden.
+
+**Und ein Zweck:** Die sichtbar geprägte Pflanze *lehrt* wieder, dass unsere
+Worte Spuren hinterlassen — bei ihr, bei Menschen. Moralische Bildung, nicht nur
+Datenschutz.
+
 ## Wiedererkennung — Anmutung, nicht Akte
 
 - **Identifikation** (Gesichts-Abdruck → „Nutzer #4471" → Dossier) =
